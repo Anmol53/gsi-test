@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gsi-test/static/css/main.073c9b0a.css",
+    "main.js": "/gsi-test/static/js/main.58ed80ef.js",
+    "index.html": "/gsi-test/index.html",
+    "main.073c9b0a.css.map": "/gsi-test/static/css/main.073c9b0a.css.map",
+    "main.58ed80ef.js.map": "/gsi-test/static/js/main.58ed80ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.58ed80ef.js"
+  ]
+}
